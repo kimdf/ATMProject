@@ -1,0 +1,6 @@
+{
+  "$type": "UserData, Assembly-CSharp",
+  "userName": "±Ë¿Á∞Ê",
+  "cash": 850000,
+  "bankcash": 1150000
+}
